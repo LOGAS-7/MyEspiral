@@ -21,5 +21,8 @@ Se ajusta a proyectos que pueden evolucionar y cambiar a lo largo del tiempo.
 
 # GRAFICO
 
+![ESPIRAL](https://github.com/LOGAS-7/MyEspiral/blob/ae421c28569df6539a9011985e4eb55d6ffb251f/espiral.jpeg)
+
+
 
 
